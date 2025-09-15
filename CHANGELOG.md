@@ -9,6 +9,7 @@ available [on GitHub][2].
 ## [Unreleased]
 
 <!-- Add new changes here -->
+- `continue` command has been added by [@joeyjooste]
 
 ## [0.3.0] - 2025-08-24 🧙‍♂️💀
 
@@ -68,6 +69,7 @@ Initial release prepared by [@chshersh].
 [@sloboegen]: https://github.com/sloboegen
 [@tekknoid]: https://github.com/tekknoid
 [@kephas]: https://github.com/kephas
+[@joeyjooste]: https://github.com/joeyjooste
 
 <!-- Header links -->
 
